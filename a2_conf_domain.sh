@@ -13,8 +13,8 @@
 # Public Domain                             |  
 
 ### Set variables
-export GREEN="\e[32m" 
-export BLUE="\e[34m"
+GREEN="\e[32m" 
+BLUE="\e[34m"
 
 ### 1. Step - Query domain name
 clear;
